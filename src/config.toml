@@ -9,7 +9,7 @@ themesDir = ".."
 
 # website title
 # 网站标题
-title = "Yuktea"
+title = "Yukti"
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
@@ -283,76 +283,10 @@ enableEmoji = true
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = ""
-    Linkedin = ""
-    Twitter = ""
+    GitHub = "https://github.com/yuktea"
+    Linkedin = "https://www.linkedin.com/in/syukti/"
+    Twitter = "https://twitter.com/s_yukti"
     Instagram = ""
-    Facebook = ""
-    Telegram = ""
-    Medium = ""
-    Gitlab = ""
-    Youtubelegacy = ""
-    Youtubecustom = ""
-    Youtubechannel = ""
-    Tumblr = ""
-    Quora = ""
-    Keybase = ""
-    Pinterest = ""
-    Reddit = ""
-    Codepen = ""
-    FreeCodeCamp = ""
-    Bitbucket = ""
-    Stackoverflow = ""
-    Weibo = ""
-    Odnoklassniki = ""
-    VK = ""
-    Flickr = ""
-    Xing = ""
-    Snapchat = ""
-    Soundcloud = ""
-    Spotify = ""
-    Bandcamp = ""
-    Paypal = ""
-    Fivehundredpx = ""
-    Mix = ""
-    Goodreads = ""
-    Lastfm = ""
-    Foursquare = ""
-    Hackernews = ""
-    Kickstarter = ""
-    Patreon = ""
-    Steam = ""
-    Twitch = ""
-    Strava = ""
-    Skype = ""
-    Whatsapp = ""
-    Zhihu = ""
-    Douban = ""
-    Angellist = ""
-    Slidershare = ""
-    Jsfiddle = ""
-    Deviantart = ""
-    Behance = ""
-    Dribbble = ""
-    Wordpress = ""
-    Vine = ""
-    Googlescholar = ""
-    Researchgate = ""
-    Mastodon = ""
-    Thingiverse = ""
-    Devto = ""
-    Gitea = ""
-    XMPP = ""
-    Matrix = ""
-    Bilibili = ""
-    Discord = ""
-    DiscordInvite = ""
-    Lichess = ""
-    ORCID = ""
-    Pleroma = ""
-    Kaggle = ""
-    Email = ""
-    RSS = ""
 
   # Page global config
   # 文章页面全局配置
@@ -453,20 +387,17 @@ enableEmoji = true
       enable = true
       Twitter = true
       Facebook = true
-      Linkedin = false
+      Linkedin = true
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
       Reddit = false
       VK = false
       Buffer = false
       Xing = false
-      Line = true
       Instapaper = false
       Pocket = false
       Flipboard = false
-      Weibo = true
       Blogger = false
       Baidu = false
       Odnoklassniki = false
@@ -861,19 +792,9 @@ enableEmoji = true
           social = true
           disclaimer = ""
       [languages.en.params.social]
-        GitHub = "xxxx"
-        Twitter = "xxxx"
-        Instagram = "xxxx"
-        Facebook = "xxxx"
-        Telegram = "xxxx"
-        Youtubelegacy = "xxxx"
-        Phone = "555-555-555"
-        Email = "xxxx@xxxx.com"
-        RSS = true
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
-
+        GitHub = "yuktea"
+        Twitter = "s_yukti"
+        Linkedin = "syukti/"
   [languages.zh-cn]
     weight = 2
     languageCode = "zh-CN"
